@@ -22,6 +22,7 @@ body {
 }
 
 .navbar .menu a {
+  color: #fff;
   margin-left: 20px;
   text-decoration: none;
   font-size: 18px;
