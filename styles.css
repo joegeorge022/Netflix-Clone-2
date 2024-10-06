@@ -15,7 +15,6 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
-  background-color: #141414;
 }
 
 .navbar .logo img {
@@ -23,7 +22,6 @@ body {
 }
 
 .navbar .menu a {
-  color: #fff;
   margin-left: 20px;
   text-decoration: none;
   font-size: 18px;
