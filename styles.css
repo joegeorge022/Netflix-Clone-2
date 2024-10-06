@@ -15,6 +15,14 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
+  position: relative; 
+}
+
+.navbar .logo {
+  position: absolute; 
+  top: 20px; 
+  left: 50%; 
+  transform: translateX(-50%); 
 }
 
 .navbar .logo img {
